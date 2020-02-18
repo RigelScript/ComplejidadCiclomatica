@@ -13,3 +13,4 @@ C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\bi
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.csproj.CopyComplete
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.dll
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.pdb
+C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.csprojAssemblyReference.cache

@@ -4,11 +4,11 @@ namespace ComplejidadCiclomaticaC
 {
     public class Elemento
     {
-        EnumPH ph { get; set; }
-        EnumNivelPlasma nivelPlasma { get; set; }
-        EnumConcentracion concentracion { get; set; }
-        EnumAcidez acidez { get; set; }
-        EnumTipo tipo { get; set; }
-        EnumComposicion composicion { get; set; }
+       public EnumPH ph { get; set; }
+        public EnumNivelPlasma nivelPlasma { get; set; }
+        public EnumConcentracion concentracion { get; set; }
+        public EnumAcidez acidez { get; set; }
+        public EnumTipo tipo { get; set; }
+        public EnumComposicion composicion { get; set; }
     }
 }
