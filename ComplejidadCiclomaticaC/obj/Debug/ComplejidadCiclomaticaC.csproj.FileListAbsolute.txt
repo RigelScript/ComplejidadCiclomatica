@@ -10,7 +10,7 @@ C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\bi
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.csprojAssemblyReference.cache
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.csproj.CopyComplete
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.dll
 C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.pdb
+C:\Users\diCenter\source\repos\ComplejidadCiclomatica\ComplejidadCiclomaticaC\obj\Debug\ComplejidadCiclomaticaC.csprojAssemblyReference.cache
